@@ -1,6 +1,6 @@
 # ✅ 자바스크립트 딥다이브 목차
 
-# 10장 객체 [바로가기] (https://github.com/tjrans9248/TIL/blob/master/Js/10%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%2020221121.md)
+# 10장 객체 [바로가기](https://github.com/tjrans9248/TIL/blob/master/Js/10%EC%9E%A5%20%EA%B0%9D%EC%B2%B4%2020221121.md)
 
 # 11장 원시값과 객체의 비교 [바로가기](https://github.com/tjrans9248/TIL/blob/master/Js/11%EC%9E%A5%20%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%9020221122.md)
 

@@ -17,6 +17,13 @@ function solution(numbers) {
   return answer / numbers.length;
 }
 
+function solution(numbers) {
+  let count = 0;
+  for (let i = 0; i < numbers.length; i++) {
+    count = count + numbers[i] / numbers.length;
+  }
+}
+return count;
 // 배열을 반복한다
 // 배열의 인덱스를 다 더한다.
 // 그 더한 값을 배열의 길이와 나눈다.

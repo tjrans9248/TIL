@@ -55,3 +55,9 @@ DOM은 HTML HTML Elements, Attributes, CSS styles, Events, Methods 등을 제어
 해결방법은 바로 Virtual DOM 이라는 DOM을 추상화한 가상의 객체를 메모리에 만들어 놓는 것입니다. Virtual DOM은 DOM과 유사한 역할을 담당할 객체입니다.
 즉, 변경 사항을 DOM에 직접 수정하는게 아니라 중간 단계로 Virtual DOM을 수정하고 Virtual DOM을 통해서 DOM을 수정하게 했습니다.
 실질적인 방법은 Virtual DOM 에 변경 내역을 한 번에 모으고(버퍼링) 실제 DOM 과 변경된 virtual dom 의 차이를 판단한 후, 구성요소의 변경된 부분만 찾아 변경하고 그에 따른 렌더링을 한 번만 하는 것으로 해결.
+
+> 만약 가상 dom이 없었다면, dom은 렌더링을 처음부터 해야했기 때문에 모든 것들을 다 렌더링해야된다.
+
+> 그래서 직접 dom에 접근하는 것은 지양해야 한다.
+
+이는 dom에 직접 접근해오 문제가 되진 않지만, dom이 직접 변경된다면 사소한 변경사항에도 전체가 재렌더링 되기 때문에 브라우저에 과부하가 올 수 있다.

@@ -37,7 +37,8 @@ console.log(name); // Uncaught SyntaxError: Identifier 'name' has already been d
 `let` 은 변수에 재할당이 가능하다. 그렇지만,
 
 ```js
-let name = 'seokmoon';
+var name;
+name = 'seokmoon';
 console.log(name); // seokmoon
 
 let name = 'yang';

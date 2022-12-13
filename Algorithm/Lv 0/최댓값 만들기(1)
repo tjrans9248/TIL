@@ -1,0 +1,6 @@
+function solution(numbers) {
+    var answer = numbers.sort((a,b) => b - a)
+    let total = answer[0] * answer[1]
+    console.log(answer)
+    return total;
+}

@@ -1,6 +1,6 @@
 # HTML Semantic Markup 이 중요한 이유
 
-HTML은 뼈대의 역ㄷ할 말고도 `의미` 를 나타내는 역할을 담당하고 있기 때문에 의미있는 요소 (Sementic Elements)로 작성하는 것은 아주 중요하다. (또한, HTML5부터는 이러한 의미있는 요소들이 많이 추가되었다.)
+HTML은 뼈대의 역할 말고도 `의미` 를 나타내는 역할을 담당하고 있기 때문에 의미있는 요소 (Sementic Elements)로 작성하는 것은 아주 중요하다. (또한, HTML5부터는 이러한 의미있는 요소들이 많이 추가되었다.)
 
 # HTML Semantic Markup
 

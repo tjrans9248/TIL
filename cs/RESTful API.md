@@ -1,6 +1,6 @@
 # RESTful 하다는게 무슨뜻인가요?
 
-REST(REpresentational State Transfer)ful API는 HTTP 통신에서 어떤 자원에 대한 CRUD 요청을 Reasource와 Method로 표현하여 특정한 형태로 전당하는 방식입니다. RESTful API는 아래와 같은 것들로 구성됩니다.
+REST(REpresentational State Transfer)ful API는 HTTP 통신에서 어떤 자원에 대한 CRUD 요청을 Resource와 Method로 표현하여 특정한 형태로 전당하는 방식입니다. RESTful API는 아래와 같은 것들로 구성됩니다.
 
 - Resource(자원, URI)
 - Method

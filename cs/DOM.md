@@ -48,7 +48,7 @@ DOM은 HTML HTML Elements, Attributes, CSS styles, Events, Methods 등을 제어
 - DOM 조작에 의한 렌더링이 비효율적인 문제
 - SPA(Single Page Application) 특징으로 DOM 복잡도 증가에 따른 최적화 및 유지 보수가 더 어려워지는 문제
 
-결론적으로 DOM을 반복적으로 직접 조작하면 그 만큼 브아루저가 렌더링을 자주하게 되고, 그 만큼 PC 자원을 많이 소모하게 되는 문제를 새결하기 위한 기술.
+결론적으로 DOM을 반복적으로 직접 조작하면 그 만큼 브라우저가 렌더링을 자주하게 되고, 그 만큼 PC 자원을 많이 소모하게 되는 문제를 새결하기 위한 기술.
 
 ## 해결방법
 
